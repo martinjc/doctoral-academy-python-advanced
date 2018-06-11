@@ -1,0 +1,178 @@
+sales,profit,region,state,category,type,caffeination
+219,94,Central,CO,Coffee,Amaretto,Regular
+190,68,Central,CO,Coffee,Columbian,Regular
+234,101,Central,CO,Coffee,Decaf Irish Cream,Decaf
+100,30,Central,CO,Tea,Green Tea,Regular
+134,54,Central,CO,Espresso,Caffe Mocha,Regular
+180,53,Central,CO,Espresso,Decaf Espresso,Decaf
+341,99,Central,CO,Herbal Tea,Chamomile,Decaf
+150,0,Central,CO,Herbal Tea,Lemon,Decaf
+140,33,Central,CO,Herbal Tea,Mint,Decaf
+130,17,Central,CO,Tea,Darjeeling,Regular
+140,36,Central,CO,Tea,Earl Grey,Regular
+345,111,Central,IL,Coffee,Columbian,Regular
+234,87,Central,IL,Coffee,Decaf Irish Cream,Decaf
+546,203,Central,IL,Espresso,Caffe Mocha,Regular
+456,140,Central,IL,Espresso,Decaf Espresso,Decaf
+219,95,Central,IL,Herbal Tea,Chamomile,Decaf
+190,68,Central,IL,Herbal Tea,Lemon,Decaf
+234,101,Central,IL,Herbal Tea,Mint,Decaf
+134,53,Central,IL,Tea,Darjeeling,Regular
+180,54,Central,IL,Tea,Earl Grey,Regular
+45,11,Central,IA,Coffee,Amaretto,Regular
+62,5,Central,IA,Coffee,Columbian,Regular
+54,12,Central,IA,Coffee,Decaf Irish Cream,Decaf
+43,11,Central,IA,Espresso,Caffe Mocha,Regular
+43,10,Central,IA,Espresso,Decaf Espresso,Decaf
+546,202,Central,IA,Herbal Tea,Chamomile,Decaf
+234,86,Central,IA,Herbal Tea,Lemon,Decaf
+456,141,Central,IA,Tea,Darjeeling,Regular
+546,175,Central,IA,Tea,Earl Grey,Regular
+190,39,Central,MO,Coffee,Columbian,Regular
+170,47,Central,MO,Coffee,Decaf Irish Cream,Decaf
+76,4,Central,MO,Tea,Green Tea,Regular
+123,48,Central,MO,Espresso,Caffe Mocha,Regular
+114,45,Central,MO,Espresso,Decaf Espresso,Decaf
+90,11,Central,MO,Herbal Tea,Chamomile,Decaf
+99,39,Central,MO,Herbal Tea,Lemon,Decaf
+82,9,Central,MO,Tea,Darjeeling,Regular
+65,9,Central,MO,Tea,Earl Grey,Regular
+140,34,Central,OH,Coffee,Amaretto,Regular
+140,42,Central,OH,Coffee,Columbian,Regular
+150,0,Central,OH,Coffee,Decaf Irish Cream,Decaf
+200,67,Central,OH,Tea,Earl Grey,Regular
+130,16,Central,OH,Espresso,Decaf Espresso,Decaf
+341,99,Central,OH,Espresso,Caffe Mocha,Regular
+80,29,Central,OH,Herbal Tea,Chamomile,Decaf
+80,29,Central,OH,Herbal Tea,Lemon,Decaf
+210,68,Central,OH,Tea,Darjeeling,Regular
+120,13,Central,WI,Coffee,Amaretto,Regular
+190,9,Central,WI,Coffee,Columbian,Regular
+180,51,Central,WI,Coffee,Decaf Irish Cream,Decaf
+180,7,Central,WI,Tea,Earl Grey,Regular
+110,34,Central,WI,Espresso,Decaf Espresso,Decaf
+150,38,Central,WI,Espresso,Caffe Mocha,Regular
+180,70,Central,WI,Herbal Tea,Chamomile,Decaf
+81,28,Central,WI,Herbal Tea,Lemon,Decaf
+150,47,Central,WI,Tea,Darjeeling,Regular
+123,47,East,CT,Tea,Darjeeling,Regular
+94,35,East,CT,Tea,Green Tea,Regular
+130,30,East,CT,Espresso,Decaf Espresso,Decaf
+180,7,East,CT,Espresso,Caffe Mocha,Regular
+310,115,East,CT,Coffee,Columbian,Regular
+190,40,East,CT,Herbal Tea,Lemon,Decaf
+170,47,East,CT,Herbal Tea,Mint,Decaf
+80,28,East,FL,Tea,Darjeeling,Regular
+81,28,East,FL,Tea,Green Tea,Regular
+180,50,East,FL,Espresso,Decaf Espresso,Decaf
+190,9,East,FL,Espresso,Caffe Mocha,Regular
+200,67,East,FL,Coffee,Decaf Irish Cream,Decaf
+210,68,East,FL,Coffee,Columbian,Regular
+110,34,East,FL,Herbal Tea,Chamomile,Decaf
+120,13,East,FL,Herbal Tea,Lemon,Decaf
+150,39,East,FL,Herbal Tea,Mint,Decaf
+80,29,East,MA,Tea,Darjeeling,Regular
+80,29,East,MA,Tea,Green Tea,Regular
+341,100,East,MA,Espresso,Regular Espresso,Regular
+126,23,East,MA,Espresso,Caffe Mocha,Regular
+494,367,East,MA,Coffee,Columbian,Regular
+130,17,East,MA,Herbal Tea,Lemon,Decaf
+45,10,East,NH,Tea,Darjeeling,Regular
+43,11,East,NH,Tea,Green Tea,Regular
+65,8,East,NH,Espresso,Regular Espresso,Regular
+90,10,East,NH,Espresso,Caffe Mocha,Regular
+93,20,East,NH,Coffee,Amaretto,Regular
+120,25,East,NH,Coffee,Columbian,Regular
+76,4,East,NH,Herbal Tea,Lemon,Decaf
+234,101,East,NY,Tea,Darjeeling,Regular
+219,94,East,NY,Tea,Earl Grey,Regular
+134,54,East,NY,Tea,Green Tea,Regular
+490,175,East,NY,Espresso,Regular Espresso,Regular
+61,172,East,NY,Espresso,Caffe Mocha,Regular
+678,262,East,NY,Coffee,Columbian,Regular
+483,111,East,NY,Herbal Tea,Lemon,Decaf
+180,113,East,NY,Herbal Tea,Mint,Decaf
+180,70,South,LA,Espresso,Caffe Mocha,Regular
+150,48,South,LA,Espresso,Decaf Espresso,Decaf
+112,35,South,LA,Herbal Tea,Chamomile,Decaf
+190,40,South,LA,Herbal Tea,Lemon,Decaf
+180,8,South,LA,Espresso,Caffe Latte,Regular
+85,30,South,LA,Coffee,Columbian,Regular
+81,28,South,LA,Coffee,Decaf Irish Cream,Decaf
+90,10,South,NM,Espresso,Caffe Mocha,Regular
+82,9,South,NM,Espresso,Decaf Espresso,Decaf
+45,11,South,NM,Herbal Tea,Chamomile,Decaf
+62,4,South,NM,Herbal Tea,Lemon,Decaf
+65,8,South,NM,Espresso,Caffe Latte,Regular
+120,26,South,NM,Coffee,Columbian,Regular
+99,39,South,NM,Coffee,Decaf Irish Cream,Decaf
+80,28,South,OK,Espresso,Caffe Mocha,Regular
+210,67,South,OK,Espresso,Decaf Espresso,Decaf
+120,13,South,OK,Herbal Tea,Chamomile,Decaf
+190,10,South,OK,Herbal Tea,Lemon,Decaf
+200,66,South,OK,Espresso,Caffe Latte,Regular
+100,29,South,OK,Coffee,Columbian,Regular
+80,28,South,OK,Coffee,Decaf Irish Cream,Decaf
+219,95,South,TX,Espresso,Caffe Mocha,Regular
+134,54,South,TX,Espresso,Decaf Espresso,Decaf
+140,33,South,TX,Herbal Tea,Chamomile,Decaf
+140,42,South,TX,Herbal Tea,Lemon,Decaf
+180,53,South,TX,Espresso,Caffe Latte,Regular
+452,159,South,TX,Coffee,Columbian,Regular
+190,68,South,TX,Coffee,Decaf Irish Cream,Decaf
+114,44,West,UT,Espresso,Caffe Latte,Regular
+112,34,West,UT,Espresso,Caffe Mocha,Regular
+123,47,West,UT,Espresso,Decaf Espresso,Decaf
+93,21,West,UT,Herbal Tea,Chamomile,Decaf
+120,25,West,UT,Herbal Tea,Lemon,Decaf
+99,40,West,UT,Herbal Tea,Mint,Decaf
+90,10,West,UT,Tea,Darjeeling,Regular
+82,9,West,UT,Tea,Earl Grey,Regular
+65,9,West,UT,Tea,Green Tea,Regular
+170,47,West,UT,Coffee,Amaretto,Regular
+130,30,West,UT,Coffee,Columbian,Regular
+190,39,West,UT,Coffee,Decaf Irish Cream,Decaf
+456,140,West,CA,Espresso,Caffe Latte,Regular
+250,17,West,CA,Espresso,Caffe Mocha,Regular
+546,203,West,CA,Espresso,Decaf Espresso,Decaf
+234,102,West,CA,Herbal Tea,Chamomile,Decaf
+452,160,West,CA,Herbal Tea,Lemon,Decaf
+190,67,West,CA,Herbal Tea,Mint,Decaf
+219,94,West,CA,Tea,Darjeeling,Regular
+134,54,West,CA,Tea,Earl Grey,Regular
+180,54,West,CA,Tea,Green Tea,Regular
+145,2,West,CA,Coffee,Amaretto,Regular
+678,262,West,CA,Coffee,Columbian,Regular
+118,117,West,CA,Coffee,Decaf Irish Cream,Decaf
+43,11,West,NV,Espresso,Caffe Latte,Regular
+45,10,West,NV,Espresso,Caffe Mocha,Regular
+43,11,West,NV,Espresso,Decaf Espresso,Decaf
+62,4,West,NV,Coffee,Decaf Irish Cream,Decaf
+250,16,West,NV,Herbal Tea,Chamomile,Decaf
+345,111,West,NV,Herbal Tea,Lemon,Decaf
+234,86,West,NV,Herbal Tea,Mint,Decaf
+546,203,West,NV,Tea,Darjeeling,Regular
+456,141,West,NV,Tea,Earl Grey,Regular
+17,354,West,NV,Tea,Green Tea,Regular
+76,3,West,NV,Coffee,Columbian,Regular
+130,16,West,OR,Espresso,Caffe Latte,Regular
+140,33,West,OR,Espresso,Caffe Mocha,Regular
+341,99,West,OR,Espresso,Decaf Espresso,Decaf
+140,42,West,OR,Coffee,Decaf Irish Cream,Decaf
+90,33,West,OR,Herbal Tea,Chamomile,Decaf
+100,29,West,OR,Herbal Tea,Lemon,Decaf
+80,28,West,OR,Tea,Darjeeling,Regular
+210,68,West,OR,Tea,Earl Grey,Regular
+200,67,West,OR,Tea,Green Tea,Regular
+150,1,West,OR,Coffee,Amaretto,Regular
+160,28,West,OR,Coffee,Columbian,Regular
+110,35,West,WA,Espresso,Caffe Latte,Regular
+120,13,West,WA,Espresso,Caffe Mocha,Regular
+150,39,West,WA,Espresso,Decaf Espresso,Decaf
+190,9,West,WA,Coffee,Decaf Irish Cream,Decaf
+310,115,West,WA,Herbal Tea,Chamomile,Decaf
+85,30,West,WA,Herbal Tea,Lemon,Decaf
+180,70,West,WA,Tea,Darjeeling,Regular
+150,48,West,WA,Tea,Earl Grey,Regular
+180,8,West,WA,Tea,Green Tea,Regular
+130,38,West,WA,Coffee,Columbian,Regular
